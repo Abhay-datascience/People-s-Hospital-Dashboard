@@ -42,7 +42,7 @@ To showcase how data visualization can support hospital operations by:
 ## 📬 Contact
 
 **Abhay Saini**  
-📧 [Your Email]  
-🌐 [LinkedIn Profile]  
-🔗 [Portfolio or Website, if any]![Uploading Screenshot 2025-06-15 103044.png…]()
+📧 abhaysaini9926@gmail.com  
+🌐 https://www.linkedin.com/in/abhay-saini-446522233/  
+🔗 https://abhay-datascience.github.io/
 
